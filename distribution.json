@@ -13,7 +13,7 @@
       "description": "MintTown Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
       "version": "1.0.0",
-      "address": "dev-shin.xyz:25565",
+      "address": "minttown.mcv.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
